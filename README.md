@@ -1,4 +1,4 @@
-this is code for Minx version 2.0
+Code for Minx version 2.0
 
-This is just for learning
+Just for learning
 
